@@ -1,6 +1,6 @@
 ## Node TypeScript Starter Template
 
-I created this template because I code a lot wit NodeJS, and I find myself having to do this often.
+I created this template because I code a lot with NodeJS, and I find myself having to do this often.
 
 :white_check_mark:	`ts-node`
 
